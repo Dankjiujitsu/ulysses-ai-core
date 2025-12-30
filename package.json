@@ -1,0 +1,13 @@
+{
+  "name": "@ulysses-os/ai-core",
+  "version": "1.0.0",
+  "description": "Core AI modules for ULYSSES-OS - 11 LLM orchestration, reasoning, learning",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["ai", "llm", "orchestration", "reasoning", "ulysses"],
+  "author": "ULYSSES-OS Hive Mind",
+  "license": "MIT"
+}
